@@ -1,0 +1,9 @@
+backend/node_modules
+backend/.env
+backend/.env.local
+backend/keys/
+
+police-scanner-frontend-new/node_modules
+police-scanner-frontend-new/.env
+police-scanner-frontend-new/.env.local
+
